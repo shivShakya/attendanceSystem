@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/attendanceSystem/static/css/main.8455b0b8.css",
+    "main.js": "/attendanceSystem/static/js/main.b4775a3c.js",
+    "static/js/453.8ab44547.chunk.js": "/attendanceSystem/static/js/453.8ab44547.chunk.js",
+    "index.html": "/attendanceSystem/index.html",
+    "main.8455b0b8.css.map": "/attendanceSystem/static/css/main.8455b0b8.css.map",
+    "main.b4775a3c.js.map": "/attendanceSystem/static/js/main.b4775a3c.js.map",
+    "453.8ab44547.chunk.js.map": "/attendanceSystem/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8455b0b8.css",
+    "static/js/main.b4775a3c.js"
+  ]
+}
