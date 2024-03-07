@@ -1,0 +1,32 @@
+@keyframes moveAndRotate {
+    0% {
+      transform: translateX(0) rotate(0deg);
+    }
+    50% {
+      transform: translateX(100px) rotate(0deg);
+    }
+    100% {
+      transform: translateX(100px) rotate(360deg);
+    }
+  }
+  
+  .animate-move-and-rotate {
+    animation: moveAndRotate 5s ease-in-out infinite;
+  }
+  
+  .first-page{
+       animation: op 2s ease-in-out;
+  }
+
+  @keyframes op {
+        0%{
+               opacity: 0;
+        }
+        100%{
+               opacity: 1;
+        }
+  }
+
+  .transition-opacity{
+        animation: op 8s ease-in-out;
+  }
